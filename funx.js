@@ -5,7 +5,7 @@ function sleep(ms) {
 const phrases = ["Therapy - Rex Orange County"];
 const yp = document.getElementById("typewriter");
 
-let sleepTime = 100;
+let sleepTime = 150;
 
 let curPhraseIndex = 0;
 

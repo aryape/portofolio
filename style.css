@@ -26,7 +26,6 @@ html, body{
     bottom: 20px;
     position: absolute;
     font-size: clamp(2px, 1.5vw, 12px);
-    width: relative;
   }
 
   #typewriter {
